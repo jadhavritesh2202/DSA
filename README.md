@@ -55,3 +55,15 @@ Welcome to my Data Structures and Algorithms (DSA) repository. This repository c
 Please give it a ⭐ and feel free to explore the solutions.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Dynamic Programming
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/jadhavritesh2202/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/jadhavritesh2202/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+<!---LeetCode Topics End-->
