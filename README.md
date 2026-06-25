@@ -67,6 +67,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jadhavritesh2202/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
 | ------- |
@@ -75,12 +76,14 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3452-sum-of-good-numbers](https://github.com/jadhavritesh2202/DSA/tree/master/3452-sum-of-good-numbers) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [3146-permutation-difference-between-two-strings](https://github.com/jadhavritesh2202/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jadhavritesh2202/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jadhavritesh2202/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -92,4 +95,17 @@ Happy Coding! 🚀
 | ------- |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jadhavritesh2202/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jadhavritesh2202/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
