@@ -76,6 +76,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3452-sum-of-good-numbers](https://github.com/jadhavritesh2202/DSA/tree/master/3452-sum-of-good-numbers) |
+| [3467-transform-array-by-parity](https://github.com/jadhavritesh2202/DSA/tree/master/3467-transform-array-by-parity) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhavritesh2202/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -97,6 +98,7 @@ Happy Coding! 🚀
 | ------- |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jadhavritesh2202/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jadhavritesh2202/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3467-transform-array-by-parity](https://github.com/jadhavritesh2202/DSA/tree/master/3467-transform-array-by-parity) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -114,4 +116,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhavritesh2202/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/jadhavritesh2202/DSA/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
