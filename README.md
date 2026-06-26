@@ -99,6 +99,7 @@ Happy Coding! 🚀
 | [3146-permutation-difference-between-two-strings](https://github.com/jadhavritesh2202/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jadhavritesh2202/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jadhavritesh2202/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/jadhavritesh2202/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting
 |  |
 | ------- |
@@ -138,6 +139,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/jadhavritesh2202/DSA/tree/master/0946-validate-stack-sequences) |
+| [3498-reverse-degree-of-a-string](https://github.com/jadhavritesh2202/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
