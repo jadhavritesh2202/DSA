@@ -76,6 +76,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/jadhavritesh2202/DSA/tree/master/0946-validate-stack-sequences) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/jadhavritesh2202/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [3452-sum-of-good-numbers](https://github.com/jadhavritesh2202/DSA/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/jadhavritesh2202/DSA/tree/master/3467-transform-array-by-parity) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhavritesh2202/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -125,8 +126,13 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/jadhavritesh2202/DSA/tree/master/0946-validate-stack-sequences) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/jadhavritesh2202/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Simulation
 |  |
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/jadhavritesh2202/DSA/tree/master/0946-validate-stack-sequences) |
+## Design
+|  |
+| ------- |
+| [1381-design-a-stack-with-increment-operation](https://github.com/jadhavritesh2202/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
