@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | [3452-sum-of-good-numbers](https://github.com/jadhavritesh2202/DSA/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/jadhavritesh2202/DSA/tree/master/3467-transform-array-by-parity) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhavritesh2202/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/jadhavritesh2202/DSA/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
