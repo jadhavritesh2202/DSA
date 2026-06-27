@@ -72,6 +72,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jadhavritesh2202/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -83,6 +84,7 @@ Happy Coding! 🚀
 | [3467-transform-array-by-parity](https://github.com/jadhavritesh2202/DSA/tree/master/3467-transform-array-by-parity) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhavritesh2202/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/jadhavritesh2202/DSA/tree/master/3502-minimum-cost-to-reach-every-position) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jadhavritesh2202/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
