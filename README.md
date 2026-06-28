@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [0239-sliding-window-maximum](https://github.com/jadhavritesh2202/DSA/tree/master/0239-sliding-window-maximum) |
 | [0946-validate-stack-sequences](https://github.com/jadhavritesh2202/DSA/tree/master/0946-validate-stack-sequences) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/jadhavritesh2202/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jadhavritesh2202/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jadhavritesh2202/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jadhavritesh2202/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3452-sum-of-good-numbers](https://github.com/jadhavritesh2202/DSA/tree/master/3452-sum-of-good-numbers) |
@@ -134,11 +135,13 @@ Happy Coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jadhavritesh2202/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhavritesh2202/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jadhavritesh2202/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jadhavritesh2202/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3467-transform-array-by-parity](https://github.com/jadhavritesh2202/DSA/tree/master/3467-transform-array-by-parity) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jadhavritesh2202/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Stack
