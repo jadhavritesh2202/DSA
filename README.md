@@ -91,6 +91,7 @@ Happy Coding! 🚀
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhavritesh2202/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3502-minimum-cost-to-reach-every-position](https://github.com/jadhavritesh2202/DSA/tree/master/3502-minimum-cost-to-reach-every-position) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jadhavritesh2202/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/jadhavritesh2202/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/jadhavritesh2202/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
