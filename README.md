@@ -98,6 +98,7 @@ Happy Coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jadhavritesh2202/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jadhavritesh2202/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3146-permutation-difference-between-two-strings](https://github.com/jadhavritesh2202/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jadhavritesh2202/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -110,6 +111,7 @@ Happy Coding! 🚀
 ## String
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jadhavritesh2202/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jadhavritesh2202/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/jadhavritesh2202/DSA/tree/master/3146-permutation-difference-between-two-strings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jadhavritesh2202/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -183,6 +185,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jadhavritesh2202/DSA/tree/master/0239-sliding-window-maximum) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jadhavritesh2202/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
