@@ -106,6 +106,7 @@ Happy Coding! 🚀
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhavritesh2202/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jadhavritesh2202/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/jadhavritesh2202/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3692-majority-frequency-characters](https://github.com/jadhavritesh2202/DSA/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
@@ -118,6 +119,7 @@ Happy Coding! 🚀
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jadhavritesh2202/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/jadhavritesh2202/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jadhavritesh2202/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3692-majority-frequency-characters](https://github.com/jadhavritesh2202/DSA/tree/master/3692-majority-frequency-characters) |
 ## Counting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Happy Coding! 🚀
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jadhavritesh2202/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/jadhavritesh2202/DSA/tree/master/3467-transform-array-by-parity) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jadhavritesh2202/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3692-majority-frequency-characters](https://github.com/jadhavritesh2202/DSA/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
