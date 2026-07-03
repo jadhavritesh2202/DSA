@@ -100,6 +100,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/jadhavritesh2202/DSA/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/jadhavritesh2202/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jadhavritesh2202/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jadhavritesh2202/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3146-permutation-difference-between-two-strings](https://github.com/jadhavritesh2202/DSA/tree/master/3146-permutation-difference-between-two-strings) |
@@ -115,6 +116,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/jadhavritesh2202/DSA/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/jadhavritesh2202/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jadhavritesh2202/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jadhavritesh2202/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3146-permutation-difference-between-two-strings](https://github.com/jadhavritesh2202/DSA/tree/master/3146-permutation-difference-between-two-strings) |
@@ -205,6 +207,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/jadhavritesh2202/DSA/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/jadhavritesh2202/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jadhavritesh2202/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
