@@ -174,6 +174,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/jadhavritesh2202/DSA/tree/master/0946-validate-stack-sequences) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/jadhavritesh2202/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -240,9 +241,11 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
