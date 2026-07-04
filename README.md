@@ -61,6 +61,7 @@ Happy Coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jadhavritesh2202/DSA/tree/master/0070-climbing-stairs) |
 | [3620-network-recovery-pathways](https://github.com/jadhavritesh2202/DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jadhavritesh2202/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -73,6 +74,7 @@ Happy Coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jadhavritesh2202/DSA/tree/master/0070-climbing-stairs) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jadhavritesh2202/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
@@ -248,4 +250,8 @@ Happy Coding! 🚀
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jadhavritesh2202/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
