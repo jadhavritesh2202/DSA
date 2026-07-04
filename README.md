@@ -174,6 +174,7 @@ Happy Coding! 🚀
 ## Stack
 |  |
 | ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/jadhavritesh2202/DSA/tree/master/0946-validate-stack-sequences) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/jadhavritesh2202/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Simulation
@@ -236,4 +237,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/jadhavritesh2202/DSA/tree/master/3620-network-recovery-pathways) |
+## Tree
+|  |
+| ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
