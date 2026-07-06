@@ -83,6 +83,7 @@ Happy Coding! 🚀
 | [0239-sliding-window-maximum](https://github.com/jadhavritesh2202/DSA/tree/master/0239-sliding-window-maximum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/jadhavritesh2202/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/jadhavritesh2202/DSA/tree/master/0946-validate-stack-sequences) |
+| [1288-remove-covered-intervals](https://github.com/jadhavritesh2202/DSA/tree/master/1288-remove-covered-intervals) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/jadhavritesh2202/DSA/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/jadhavritesh2202/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jadhavritesh2202/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -169,6 +170,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/jadhavritesh2202/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1288-remove-covered-intervals](https://github.com/jadhavritesh2202/DSA/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jadhavritesh2202/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3467-transform-array-by-parity](https://github.com/jadhavritesh2202/DSA/tree/master/3467-transform-array-by-parity) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jadhavritesh2202/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
