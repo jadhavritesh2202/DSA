@@ -108,6 +108,7 @@ Happy Coding! 🚀
 | ------- |
 | [0127-word-ladder](https://github.com/jadhavritesh2202/DSA/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/jadhavritesh2202/DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/jadhavritesh2202/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jadhavritesh2202/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jadhavritesh2202/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3146-permutation-difference-between-two-strings](https://github.com/jadhavritesh2202/DSA/tree/master/3146-permutation-difference-between-two-strings) |
@@ -224,6 +225,7 @@ Happy Coding! 🚀
 ## Graph Theory
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/jadhavritesh2202/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jadhavritesh2202/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/jadhavritesh2202/DSA/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -253,8 +255,13 @@ Happy Coding! 🚀
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/jadhavritesh2202/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jadhavritesh2202/DSA/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/jadhavritesh2202/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
