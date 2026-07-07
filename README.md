@@ -225,6 +225,7 @@ Happy Coding! 🚀
 | ------- |
 | [0127-word-ladder](https://github.com/jadhavritesh2202/DSA/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/jadhavritesh2202/DSA/tree/master/0433-minimum-genetic-mutation) |
+| [0513-find-bottom-left-tree-value](https://github.com/jadhavritesh2202/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jadhavritesh2202/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -252,11 +253,13 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/jadhavritesh2202/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/jadhavritesh2202/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/jadhavritesh2202/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jadhavritesh2202/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -268,4 +271,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/jadhavritesh2202/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Binary Tree
+|  |
+| ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/jadhavritesh2202/DSA/tree/master/0513-find-bottom-left-tree-value) |
 <!---LeetCode Topics End-->
