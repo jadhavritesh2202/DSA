@@ -62,6 +62,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jadhavritesh2202/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/jadhavritesh2202/DSA/tree/master/0198-house-robber) |
 | [3620-network-recovery-pathways](https://github.com/jadhavritesh2202/DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jadhavritesh2202/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -81,6 +82,7 @@ Happy Coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/jadhavritesh2202/DSA/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/jadhavritesh2202/DSA/tree/master/0239-sliding-window-maximum) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/jadhavritesh2202/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0946-validate-stack-sequences](https://github.com/jadhavritesh2202/DSA/tree/master/0946-validate-stack-sequences) |
