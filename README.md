@@ -93,6 +93,7 @@ Happy Coding! 🚀
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/jadhavritesh2202/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jadhavritesh2202/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jadhavritesh2202/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/jadhavritesh2202/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jadhavritesh2202/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jadhavritesh2202/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jadhavritesh2202/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -226,6 +227,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/jadhavritesh2202/DSA/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/jadhavritesh2202/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0513-find-bottom-left-tree-value](https://github.com/jadhavritesh2202/DSA/tree/master/0513-find-bottom-left-tree-value) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/jadhavritesh2202/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jadhavritesh2202/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -236,6 +238,7 @@ Happy Coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/jadhavritesh2202/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jadhavritesh2202/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
