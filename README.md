@@ -82,6 +82,7 @@ Happy Coding! 🚀
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jadhavritesh2202/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadhavritesh2202/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@ Happy Coding! 🚀
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/jadhavritesh2202/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadhavritesh2202/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -193,6 +195,7 @@ Happy Coding! 🚀
 | [3467-transform-array-by-parity](https://github.com/jadhavritesh2202/DSA/tree/master/3467-transform-array-by-parity) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jadhavritesh2202/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/jadhavritesh2202/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadhavritesh2202/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -205,6 +208,7 @@ Happy Coding! 🚀
 | ------- |
 | [0946-validate-stack-sequences](https://github.com/jadhavritesh2202/DSA/tree/master/0946-validate-stack-sequences) |
 | [3498-reverse-degree-of-a-string](https://github.com/jadhavritesh2202/DSA/tree/master/3498-reverse-degree-of-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadhavritesh2202/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -289,4 +293,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/jadhavritesh2202/DSA/tree/master/0513-find-bottom-left-tree-value) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadhavritesh2202/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadhavritesh2202/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
