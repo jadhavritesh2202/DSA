@@ -70,6 +70,7 @@ Happy Coding! 🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jadhavritesh2202/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -78,6 +79,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jadhavritesh2202/DSA/tree/master/0070-climbing-stairs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jadhavritesh2202/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/jadhavritesh2202/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -101,6 +103,7 @@ Happy Coding! 🚀
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jadhavritesh2202/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jadhavritesh2202/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/jadhavritesh2202/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3452-sum-of-good-numbers](https://github.com/jadhavritesh2202/DSA/tree/master/3452-sum-of-good-numbers) |
 | [3467-transform-array-by-parity](https://github.com/jadhavritesh2202/DSA/tree/master/3467-transform-array-by-parity) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhavritesh2202/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -125,6 +128,7 @@ Happy Coding! 🚀
 | [2716-minimize-string-length](https://github.com/jadhavritesh2202/DSA/tree/master/2716-minimize-string-length) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/jadhavritesh2202/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3146-permutation-difference-between-two-strings](https://github.com/jadhavritesh2202/DSA/tree/master/3146-permutation-difference-between-two-strings) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jadhavritesh2202/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jadhavritesh2202/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhavritesh2202/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -156,6 +160,7 @@ Happy Coding! 🚀
 | [0945-minimum-increment-to-make-array-unique](https://github.com/jadhavritesh2202/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jadhavritesh2202/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/jadhavritesh2202/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jadhavritesh2202/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jadhavritesh2202/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/jadhavritesh2202/DSA/tree/master/3467-transform-array-by-parity) |
@@ -263,6 +268,7 @@ Happy Coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3620-network-recovery-pathways](https://github.com/jadhavritesh2202/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -300,5 +306,10 @@ Happy Coding! 🚀
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadhavritesh2202/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
