@@ -1,36 +1,33 @@
 class Solution {
-    int find(List<Integer>list,int num)
-    {
-        int ans=-1;
-        int low=0;
-        int high=list.size()-1;
-        while(low<=high)
-        {
-            int mid=(low+high)/2;
-            if(list.get(mid)>=num)
-            {
-                ans=mid;
-                high=mid-1;
-            }
-            else low=mid+1;
-        }
-        return ans;
-    }
     public int minDeletions(int[] arr) {
         // code here
         int n=arr.length;
-        List<Integer>list=new ArrayList<>();
+        List<Integer> list=new ArrayList<>();
+        list.add(arr[0]);
         
-        for(int i=0;i<n;i++)
-        {
-            int num=arr[i];
-            if(list.size()==0 || list.get(list.size()-1)<num)list.add(num);
-            else
-            {
-                int idx=find(list,num);
-                list.set(idx,num);
+        for(int i=1;i<n;i++){
+            if(list.isEmpty() || arr[i]>list.get(list.size()-1)){
+                list.add(arr[i]);
+            }else{
+                int idx=LowerBound(list,arr[i]);
+                list.set(idx,arr[i]);
             }
         }
+        
         return n-list.size();
+    }
+    public int LowerBound(List<Integer> list,int key){
+            int l=0;
+            int h=list.size();
+            while(l<h){
+                int mid=l+(h-l)/2;
+                
+                if(list.get(mid)>=key){
+                    h=mid;
+                }else{
+                    l=mid+1;
+                }
+            }
+            return l;
     }
 }
