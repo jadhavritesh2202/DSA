@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/jadhavritesh2202/DSA/tree/master/0070-climbing-stairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadhavritesh2202/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/jadhavritesh2202/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -155,6 +156,7 @@ Happy Coding! 🚀
 | [2716-minimize-string-length](https://github.com/jadhavritesh2202/DSA/tree/master/2716-minimize-string-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/jadhavritesh2202/DSA/tree/master/3146-permutation-difference-between-two-strings) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/jadhavritesh2202/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jadhavritesh2202/DSA/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/jadhavritesh2202/DSA/tree/master/3498-reverse-degree-of-a-string) |
@@ -201,6 +203,7 @@ Happy Coding! 🚀
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/jadhavritesh2202/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jadhavritesh2202/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhavritesh2202/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/jadhavritesh2202/DSA/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/jadhavritesh2202/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -323,10 +326,15 @@ Happy Coding! 🚀
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadhavritesh2202/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jadhavritesh2202/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
