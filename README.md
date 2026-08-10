@@ -64,6 +64,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/jadhavritesh2202/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/jadhavritesh2202/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jadhavritesh2202/DSA/tree/master/0213-house-robber-ii) |
+| [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
 | [3620-network-recovery-pathways](https://github.com/jadhavritesh2202/DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jadhavritesh2202/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -79,6 +80,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/jadhavritesh2202/DSA/tree/master/0070-climbing-stairs) |
+| [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadhavritesh2202/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -337,4 +339,24 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
