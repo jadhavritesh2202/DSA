@@ -81,6 +81,7 @@ Happy Coding! 🚀
 | ------- |
 | [0070-climbing-stairs](https://github.com/jadhavritesh2202/DSA/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/jadhavritesh2202/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadhavritesh2202/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jadhavritesh2202/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -157,6 +158,7 @@ Happy Coding! 🚀
 | [0433-minimum-genetic-mutation](https://github.com/jadhavritesh2202/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jadhavritesh2202/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jadhavritesh2202/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1927-sum-game](https://github.com/jadhavritesh2202/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jadhavritesh2202/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2716-minimize-string-length](https://github.com/jadhavritesh2202/DSA/tree/master/2716-minimize-string-length) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -207,6 +209,7 @@ Happy Coding! 🚀
 | [0945-minimum-increment-to-make-array-unique](https://github.com/jadhavritesh2202/DSA/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/jadhavritesh2202/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jadhavritesh2202/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/jadhavritesh2202/DSA/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhavritesh2202/DSA/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -353,6 +356,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/jadhavritesh2202/DSA/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
 | ------- |
