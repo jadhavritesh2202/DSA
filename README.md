@@ -65,12 +65,14 @@ Happy Coding! 🚀
 | [0198-house-robber](https://github.com/jadhavritesh2202/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jadhavritesh2202/DSA/tree/master/0213-house-robber-ii) |
 | [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/jadhavritesh2202/DSA/tree/master/1872-stone-game-viii) |
 | [3620-network-recovery-pathways](https://github.com/jadhavritesh2202/DSA/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jadhavritesh2202/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/jadhavritesh2202/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/jadhavritesh2202/DSA/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/jadhavritesh2202/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/jadhavritesh2202/DSA/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/jadhavritesh2202/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -81,6 +83,7 @@ Happy Coding! 🚀
 | ------- |
 | [0070-climbing-stairs](https://github.com/jadhavritesh2202/DSA/tree/master/0070-climbing-stairs) |
 | [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/jadhavritesh2202/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jadhavritesh2202/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadhavritesh2202/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jadhavritesh2202/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -106,6 +109,7 @@ Happy Coding! 🚀
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/jadhavritesh2202/DSA/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jadhavritesh2202/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/jadhavritesh2202/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1872-stone-game-viii](https://github.com/jadhavritesh2202/DSA/tree/master/1872-stone-game-viii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/jadhavritesh2202/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/jadhavritesh2202/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jadhavritesh2202/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -352,10 +356,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/jadhavritesh2202/DSA/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/jadhavritesh2202/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jadhavritesh2202/DSA/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
@@ -369,6 +375,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/jadhavritesh2202/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/jadhavritesh2202/DSA/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
