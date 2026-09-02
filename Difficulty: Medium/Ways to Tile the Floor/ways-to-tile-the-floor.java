@@ -1,13 +1,24 @@
 class Solution {
-    public int countWays(int n, int m) {
-		int[] dp = new int[n + 1];
-		int md = 1000000007;
-		for (int i = 1; i <= n; i++) {
-			if (i<m)dp[i] = 1;
-			else if (i == m)dp[i] = 2;
-			else dp[i] = (dp[i - 1]+dp[i - m])%md;
+	static final int MOD = 1000000007;
+	int m;
+	public int countWays(int n, int m) {
+		// code here
+		this.m = m;
+		long[] dp=new long[n+1];
+		Arrays.fill(dp,-1);
+		 return (int)solve(n,dp);
+		
+	}
+	public long solve(int n,long[] dp) {
+		if (n == 0)
+			return 1;
+		if(dp[n]!=-1) return dp[n];
+		long left = solve(n - 1,dp);
+		long right = 0;
+		if (n >= m) {
+			right = solve(n - m,dp);
+			
 		}
-		return dp[n];
+		return dp[n]=(left + right)%MOD;
+	}
 }
-}
-
